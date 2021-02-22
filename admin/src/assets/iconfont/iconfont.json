@@ -1,0 +1,72 @@
+{
+  "id": "2375035",
+  "name": "flower",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "521968",
+      "name": "文化",
+      "font_class": "wenhua",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "765527",
+      "name": "鲜花",
+      "font_class": "shouye",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "839850",
+      "name": "销售订单",
+      "font_class": "xiaoshoudingdan",
+      "unicode": "e669",
+      "unicode_decimal": 58985
+    },
+    {
+      "icon_id": "7831472",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "8802635",
+      "name": "系统管理",
+      "font_class": "xitongguanli",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "10143467",
+      "name": "用户",
+      "font_class": "yonghu1",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "12331681",
+      "name": "统计",
+      "font_class": "tongji",
+      "unicode": "e66a",
+      "unicode_decimal": 58986
+    },
+    {
+      "icon_id": "13168526",
+      "name": "库存",
+      "font_class": "kucun",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "3216589",
+      "name": "更多内容",
+      "font_class": "gengduoneirong",
+      "unicode": "e685",
+      "unicode_decimal": 59013
+    }
+  ]
+}

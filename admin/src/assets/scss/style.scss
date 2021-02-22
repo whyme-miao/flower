@@ -1,0 +1,42 @@
+@import './_variables';
+// reset
+* {
+    box-sizing: border-box;
+    outline: none;
+}
+
+
+// flex
+.d-flex {
+    display: flex;
+}
+.flex-column {
+    flex-direction: column;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+
+@each $key, $value in $flex-jc {
+    .jc-#{$key} {
+        justify-content: $value;
+    }
+}
+
+@each $key, $value in $flex-ai {
+    .ai-#{$key} {
+        align-items: $value;
+    }
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+// font-sizes
+@each $sizeKey, $size in $font-sizes {
+    .fs-#{sizeKey} {
+        font-size: $size * $base-font-size !important;
+    }
+}
